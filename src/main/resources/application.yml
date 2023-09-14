@@ -1,0 +1,6 @@
+apiKey: 65005d7b47bb62fc99b81e21:HpOCUQCXrhxmVAMhGG
+apiUrl: https://api.preprod.konnect.network/api/v2/payments/init-payment
+walletKey: 65005d7b47bb62fc99b81e25
+server:
+  port: 8081
+
