@@ -1,0 +1,12 @@
+apiKey: 65031b6f47bb62fc99ba5367:Jc8X48P4px8q3oNsJSqlIlx
+apiUrl: https://api.preprod.konnect.network/api/v2/payments/init-payment
+walletKey: 65031b6f47bb62fc99ba536b
+server:
+  port: 8082
+
+  # Logging configurations for  springSecurity
+  logging:
+    level:
+      org:
+        springframework.security: DEBUG
+
